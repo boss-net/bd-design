@@ -1,0 +1,10 @@
+site_name: BossNET BD Document
+site_author: BossNET
+repo_url: https://boss-net.github.io/bd-design/
+repo_name: Contributing
+use_directory_urls: false
+
+docs_dir: book
+markdown_extensions:
+- admonition
+- attr_list
